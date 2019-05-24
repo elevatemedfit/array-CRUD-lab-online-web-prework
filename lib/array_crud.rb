@@ -7,7 +7,7 @@ names=["Chris","Jim","Sue","Luther"]
 end
 
 def add_element_to_end_of_array(array, element)
-names.push("Simon")
+names<<("Simon")
 end
 
 def add_element_to_start_of_array(array, element)
